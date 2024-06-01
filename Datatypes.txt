@@ -1,0 +1,16 @@
+Datatypes
+
+◘ 7 Primitive Datatypes
+• Number
+• String
+• Boolean
+• null
+• undefined
+• symbol
+• BigInt
+
+◘ Typeof - gives type of datatypes
+
+◘ let,cons,and var
+
+• 
